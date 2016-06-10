@@ -5,7 +5,6 @@ public class Euler74 {
 	public static ArrayList<Integer> numseval= new ArrayList<Integer>();
 	static int[] facts={1,1,2,6,24,120,720,5040,40320,362880};
 	
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n,suc=0,cont=0,c60=0;
